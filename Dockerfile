@@ -21,4 +21,3 @@ RUN apk del --no-cache .dependencies
 VOLUME /app
 WORKDIR /app
 
-CMD ["scala"]
