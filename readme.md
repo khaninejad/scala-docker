@@ -1,3 +1,5 @@
+## Scala Docker
+
 ## Build Docker Image:
 
     docker build --tag scala-docker:1.0 .
